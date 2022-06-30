@@ -20,3 +20,8 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 stats.g.doubleclick.net           # GOOGLE ADS
 0.0.0.0 improving.duckduckgo.com
+
+# TEST
+# ===============================================================
+0.0.0.0 ns-tld1.charlestonroadregistry.com
+0.0.0.0 cloud-dns-hostmaster.google.com
