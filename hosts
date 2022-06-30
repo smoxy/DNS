@@ -1,2 +1,14 @@
-0.0.0.0 location.services.mozilla.com
-0.0.0.0 graph.facebook.com
+# This hosts file is a collection of hosts that I like to block
+#
+# Date: 30 June 2022 19:24:26 (UTC)
+# Number of unique domains: 3
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/smoxy/DNS/main/hosts
+# Project home page: https://github.com/smoxy/DNS
+# Project releases: https://github.com/smoxy/DNS/releases
+#
+# ===============================================================
+
+0.0.0.0 location.services.mozilla.com     #
+0.0.0.0 graph.facebook.com                #
+0.0.0.0 stats.g.doubleclick.net           # GOOGLE ADS
