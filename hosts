@@ -1,12 +1,18 @@
-# This hosts file is a collection of hosts that I like to block
+# hosts file collection
 #
 # Date: 30 June
-# Number of unique domains: 3
+# Number of unique domains: 5
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/smoxy/DNS/main/hosts
 # Project home page: https://github.com/smoxy/DNS
 # Project releases: https://github.com/smoxy/DNS/releases
 #
+
+# My domain
+# ===============================================================
+128.116.135.192 smoxy.dev
+
+# My blocklist
 # ===============================================================
 
 0.0.0.0 location.services.mozilla.com
