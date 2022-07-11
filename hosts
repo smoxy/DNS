@@ -1,6 +1,6 @@
 # hosts file collection
 #
-# Date: 30 June
+# Date: 11 July
 # Number of unique domains: 5
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/smoxy/DNS/main/hosts
@@ -11,7 +11,7 @@
 # My domain
 # ===============================================================
 #128.116.135.192 smoxy.dev
-0.0.0.0 128-116-135-192.static.eolo.it
+#0.0.0.0 128-116-135-192.static.eolo.it
 
 # My blocklist
 # ===============================================================
