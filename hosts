@@ -1,7 +1,7 @@
 # hosts file collection
 #
 # Date: 11 July
-# Number of unique domains: 5
+# Number of unique domains: 8
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/smoxy/DNS/main/hosts
 # Project home page: https://github.com/smoxy/DNS
@@ -10,7 +10,8 @@
 
 # My domain
 # ===============================================================
-#128.116.135.192 smoxy.dev
+128.116.135.192 smoxy.dev
+192.168.1.1 myrouter.dev
 #0.0.0.0 128-116-135-192.static.eolo.it
 
 # My blocklist
