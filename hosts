@@ -1,6 +1,6 @@
 # hosts file collection
 #
-# Date: 25 July
+# Date: 01 August
 # Number of unique domains: 8
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/smoxy/DNS/main/hosts
@@ -21,6 +21,7 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 stats.g.doubleclick.net           # GOOGLE ADS
 0.0.0.0 improving.duckduckgo.com
+0.0.0.0 mrpornogratis.it
 
 # TEST
 # ===============================================================
