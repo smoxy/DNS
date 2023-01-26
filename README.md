@@ -1,6 +1,6 @@
 # This repo is a collection of public file that I could need in my projects
 
-## opentracker Whitelist
+## opentracker pj
 Whitelist of my personal torrent tracker
 
 ## DNS
