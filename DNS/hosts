@@ -1,18 +1,12 @@
 # hosts file collection
 #
-# Date: 21 August
-# Number of unique domains: 8
+# Date: 12 December 2023
+# Number of unique domains: 14
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/smoxy/DNS/main/hosts
 # Project home page: https://github.com/smoxy/DNS
 # Project releases: https://github.com/smoxy/DNS/releases
 #
-
-# My domain
-# ===============================================================
-#128.116.135.192 smoxy.dev
-#192.168.1.1 myrouter.dev
-#0.0.0.0 128-116-135-192.static.eolo.it
 
 # My blocklist
 # ===============================================================
@@ -22,6 +16,18 @@
 0.0.0.0 stats.g.doubleclick.net           # GOOGLE ADS
 0.0.0.0 improving.duckduckgo.com
 0.0.0.0 154.35.175.225
+
+# IoT
+# ===============================================================
+
+# Xiaomi Dreame
+0.0.0.0 report-europe2.agora.io
+0.0.0.0 git.dreame.tech
+0.0.0.0 dreame-eu.oss-eu-central-1.aliyuncs.com
+0.0.0.0 cn.pool.ntp.org
+0.0.0.0 awsde0.fds.api.xiaomi.com
+0.0.0.0 ap-europe4.agora.io
+0.0.0.0 10000.mt.eu.iot.dreame.tech
 
 # TEST
 # ===============================================================
