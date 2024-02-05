@@ -23,9 +23,9 @@
 # Xiaomi Dreame
 0.0.0.0 report-europe2.agora.io
 0.0.0.0 git.dreame.tech
-0.0.0.0 dreame-eu.oss-eu-central-1.aliyuncs.com
+#0.0.0.0 dreame-eu.oss-eu-central-1.aliyuncs.com
 0.0.0.0 cn.pool.ntp.org
-0.0.0.0 awsde0.fds.api.xiaomi.com
+#0.0.0.0 awsde0.fds.api.xiaomi.com
 0.0.0.0 ap-europe4.agora.io
 0.0.0.0 10000.mt.eu.iot.dreame.tech
 
